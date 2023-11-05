@@ -1,0 +1,41 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+  }
+
+h1{
+    font-family:"Josefin Sans",sans-serif;
+    font-size: 2rem;
+}
+
+.google-fonts{
+    /*ここにGoogle Fontsを指定します*/
+    font-family:"Josefin Sans",sans-serif;
+}
+
+html{
+    /*ここにCSSを書いていきます*/
+    font-size:20px;
+    text-align: center;
+}
+
+.decoration1{
+    /* 以下はキーワードで色を指定しています */
+    color:skyblue;
+}
+
+.decoration2{
+    /* 以下はRGBで色を指定しています */
+    color:rgb(255, 192, 203);
+}
+
+.decoration3{
+    text-shadow: 1px 1px 2px gray;
+    letter-spacing:1.2em;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+#parent p{
+  /* ここにCSSを書いていきます */
+  font-weight: bold;
+}
+
